@@ -1,0 +1,29 @@
+{
+  "cSpell.words": [
+    "datetime",
+    "descricao",
+    "elider",
+    "Gradução",
+    "nestjs",
+    "Orgao",
+    "timestamptz",
+    "uppate"
+  ],
+  "sqltools.connections": [
+    {
+      "mssqlOptions": {
+        "appName": "SQLTools",
+        "useUTC": true,
+        "encrypt": true
+      },
+      "previewLimit": 50,
+      "server": "54.39.163.174",
+      "port": 31017,
+      "driver": "MSSQL",
+      "name": "Hosp. Segura",
+      "database": "atvision_dev_",
+      "username": "atvision",
+      "password": "@tVisi0n2024"
+    }
+  ]
+}
